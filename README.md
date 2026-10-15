@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on @TencentBluking
+- 🌱 I’m currently learning Go & Python
+
+### 🎮 Steam
+
+![Steam Card](https://card.yuy1n.io/card/76561199273645380/dark,badge,en,bg-game,badges,games,reviews)
