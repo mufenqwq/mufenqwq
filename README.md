@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on @TencentBluking
+- 🔭 I’m currently working on @TencentBlueking
 - 🌱 I’m currently learning Go & Python
 
 ### 🎮 Steam
