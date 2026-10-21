@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on @TencentBlueking
-- 🌱 I’m currently learning Go & Python
+- 🌱 I’m currently learning Go & Python & DevOps
 
-### 最喜欢的游戏
 
-- 巫师三
-- 塞尔达传说：旷野之息
-- Grand Theft Auto V
-- League of Legends
