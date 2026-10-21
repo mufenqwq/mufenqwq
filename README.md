@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on @TencentBlueking
 - 🌱 I’m currently learning Go & Python
 
-### 🎮 Steam
+### 最喜欢的游戏
 
-![Steam Card](https://card.yuy1n.io/card/76561199273645380/dark,badge,en,bg-game,badges,games,reviews)
+- 巫师三
+- 塞尔达传说：旷野之息
+- Grand Theft Auto V
+- League of Legends
